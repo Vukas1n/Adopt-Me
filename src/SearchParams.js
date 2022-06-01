@@ -24,6 +24,8 @@ const SearchParams = () => {
     setPets(json.pets);
   }
 
+  console.log("TestForGit");
+
   return (
     <div className="search-params">
       <form
